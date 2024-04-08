@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1711089302 source:g:\cpp\ltnc\btl\game_convert\baseobject.cpp
+	"BaseObject.h"
+	"defs.h"
+
+1711090399 g:\cpp\ltnc\btl\game_convert\baseobject.h
+	"defs.h"
+
+1711089994 g:\cpp\ltnc\btl\game_convert\defs.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+	<windows.h>
+	<string>
+
+1711089475 source:g:\cpp\ltnc\btl\game_convert\main.cpp
+	<iostream>
+	"defs.h"
+	"BaseObject.h"
+
