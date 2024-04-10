@@ -1,8 +1,8 @@
 # depslib dependency file v1.0
 1710899110 source:g:\cpp\ltnc\btl\game\commonfunc.cpp
 
-1712417192 source:g:\cpp\ltnc\btl\game\main.cpp
-	<iostream>
+1712423251 source:g:\cpp\ltnc\btl\game\main.cpp
+	<bits/stdc++.h>
 	"CommonFunc.h"
 	"BaseObject.h"
 	"game_map.h"

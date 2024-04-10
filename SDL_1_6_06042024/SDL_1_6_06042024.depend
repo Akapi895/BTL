@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1712411048 source:g:\cpp\ltnc\btl\sdl_1_6_06042024\main.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+
