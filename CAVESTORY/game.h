@@ -2,23 +2,20 @@
 #define GAME_H
 
 #include "defs.h"
-#include "graphics.h"
-#include "input.h"
-#include "game.h"
-#include "sprite.h"
+#include "animatedsprite.h"
 
 class Graphics;
 
 class Game {
 public:
-    Game();
-    ~Game();
+	Game();
+	~Game();
 private:
-    void gameloop();
-    void draw(Graphics &graphics);
-    void update(float elapsedTime);
+	void gameLoop();
+	void draw(Graphics &graphics);
+	void update(float elapsedTime);
 
-    Sprite _player;
+	AnimatedSprite _player;
 };
 
-#endif // GAME_H
+#endif // !GAME_H

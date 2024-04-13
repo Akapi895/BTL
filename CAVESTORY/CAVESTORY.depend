@@ -1,10 +1,10 @@
 # depslib dependency file v1.0
-1712816450 source:g:\cpp\ltnc\btl\cavestory\main.cpp
+1712980893 source:g:\cpp\ltnc\btl\cavestory\main.cpp
 	"defs.h"
 	"graphics.h"
 	"game.h"
 
-1712818383 g:\cpp\ltnc\btl\cavestory\defs.h
+1712824155 g:\cpp\ltnc\btl\cavestory\defs.h
 	<SDL.h>
 	<SDL_image.h>
 	<SDL_ttf.h>
@@ -12,6 +12,7 @@
 	<iostream>
 	<map>
 	<string>
+	<vector>
 
 1712818703 g:\cpp\ltnc\btl\cavestory\graphics.h
 	"defs.h"
@@ -20,23 +21,24 @@
 	"graphics.h"
 	"globals.h"
 
-1712820069 g:\cpp\ltnc\btl\cavestory\game.h
+1713021089 g:\cpp\ltnc\btl\cavestory\game.h
 	"defs.h"
-	"graphics.h"
-	"input.h"
-	"game.h"
-	"sprite.h"
+	"animatedsprite.h"
 
 1712817281 g:\cpp\ltnc\btl\cavestory\input.h
 	"defs.h"
 
-1712817604 source:g:\cpp\ltnc\btl\cavestory\input.cpp
+1712983126 source:g:\cpp\ltnc\btl\cavestory\input.cpp
 	"input.h"
 
-1712820906 source:g:\cpp\ltnc\btl\cavestory\game.cpp
+1712899876 source:g:\cpp\ltnc\btl\cavestory\game.cpp
 	"game.h"
+	"defs.h"
+	"graphics.h"
+	"input.h"
+	"animatedsprite.h"
 
-1712819803 g:\cpp\ltnc\btl\cavestory\sprite.h
+1712899371 g:\cpp\ltnc\btl\cavestory\sprite.h
 	"defs.h"
 	"graphics.h"
 
@@ -44,5 +46,16 @@
 	"sprite.h"
 	"globals.h"
 
-1712822696 g:\cpp\ltnc\btl\cavestory\globals.h
+1712824926 g:\cpp\ltnc\btl\cavestory\globals.h
+
+1712983157 source:g:\cpp\ltnc\btl\cavestory\animatedsprite.cpp
+	"animatedsprite.h"
+	"graphics.h"
+	"sprite.h"
+
+1712981782 g:\cpp\ltnc\btl\cavestory\animatedsprite.h
+	"defs.h"
+	"sprite.h"
+	"globals.h"
+	"game.h"
 

@@ -1,4 +1,8 @@
 #include "game.h"
+#include "defs.h"
+#include "graphics.h"
+#include "input.h"
+#include "animatedsprite.h"
 
 namespace {
     const int FPS = 50;
@@ -6,19 +10,21 @@ namespace {
 }
 Game::Game() {
     SDL_Init(SDL_INIT_EVERYTHING);
-    this->gameloop();
+    this->gameLoop();
 }
 
 Game::~Game() {
 
 }
 
-void Game::gameloop() {
+void Game::gameLoop() {
     Graphics graphics;
     Input input;
     SDL_Event event;
 
-    this->_player = Sprite(graphics, "character/Mychar.png", 0, 0, 65, 65, 100, 100);
+    this->_player = Sprite(graphics, "character/Mychar.png", 64, 192, 64, 64, 100, 100, 100);
+    this->_player.setupAnimations();
+    this->_player.playAnimation("RunLeft");
 
     int LAST_UPDATE_TIME = SDL_GetTicks(); //get the number of milisecond
     //start gameloop
@@ -59,5 +65,6 @@ void Game::draw(Graphics &graphics) {
     graphics.flip();
 }
 void Game::update(float elapsedtime) {
-
+    this->_player.update(elapsedtime);
 }
+
