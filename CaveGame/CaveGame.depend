@@ -1,0 +1,325 @@
+# depslib dependency file v1.0
+1713434836 source:g:\cpp\vs\cavegame\animatedsprite.cpp
+	"animatedsprite.h"
+	"graphics.h"
+	"sprite.h"
+
+1713435184 g:\cpp\vs\cavegame\animatedsprite.h
+	<map>
+	<string>
+	<vector>
+	"sprite.h"
+	"globals.h"
+
+1713435405 g:\cpp\vs\cavegame\sprite.h
+	<SDL.h>
+	<string>
+	"rectangle.h"
+	"globals.h"
+
+1713435373 g:\cpp\vs\cavegame\rectangle.h
+	"globals.h"
+
+1713435262 g:\cpp\vs\cavegame\globals.h
+
+1713435288 g:\cpp\vs\cavegame\graphics.h
+	<SDL.h>
+	<map>
+	<string>
+
+1713434860 source:g:\cpp\vs\cavegame\animatedtile.cpp
+	"animatedtile.h"
+	"graphics.h"
+
+1713435200 g:\cpp\vs\cavegame\animatedtile.h
+	<vector>
+	"tile.h"
+	"globals.h"
+
+1713435417 g:\cpp\vs\cavegame\tile.h
+	"globals.h"
+
+1713434878 source:g:\cpp\vs\cavegame\enemy.cpp
+	"enemy.h"
+
+1713435230 g:\cpp\vs\cavegame\enemy.h
+	"animatedsprite.h"
+	"globals.h"
+	"player.h"
+	<string>
+
+1713435353 g:\cpp\vs\cavegame\player.h
+	"animatedsprite.h"
+	"globals.h"
+	"slope.h"
+	"level.h"
+	"enemy.h"
+
+1713435389 g:\cpp\vs\cavegame\slope.h
+	"globals.h"
+	<cmath>
+
+1713435338 g:\cpp\vs\cavegame\level.h
+	<string>
+	<vector>
+	"globals.h"
+	"tile.h"
+	"rectangle.h"
+	"slope.h"
+	"animatedtile.h"
+	"door.h"
+
+1713435213 g:\cpp\vs\cavegame\door.h
+	"rectangle.h"
+	"globals.h"
+	<string>
+
+1713435508 source:g:\cpp\vs\cavegame\game.cpp
+	<SDL.h>
+	"game.h"
+	"graphics.h"
+	"input.h"
+
+1713435244 g:\cpp\vs\cavegame\game.h
+	"player.h"
+	"level.h"
+	"hud.h"
+	"graphics.h"
+
+1713435307 g:\cpp\vs\cavegame\hud.h
+	"sprite.h"
+	"player.h"
+
+1713435322 g:\cpp\vs\cavegame\input.h
+	<SDL.h>
+	<map>
+
+1713434933 source:g:\cpp\vs\cavegame\graphics.cpp
+	<SDL.h>
+	<SDL_image.h>
+	"graphics.h"
+	"globals.h"
+
+1713435652 source:g:\cpp\vs\cavegame\hud.cpp
+	"hud.h"
+	"graphics.h"
+
+1713434959 source:g:\cpp\vs\cavegame\input.cpp
+	"input.h"
+
+1713434990 source:g:\cpp\vs\cavegame\level.cpp
+	"level.h"
+	"graphics.h"
+	"globals.h"
+	"utils.h"
+	"player.h"
+	"enemy.h"
+	"tinyxml2.h"
+	<SDL.h>
+	<sstream>
+	<algorithm>
+	<cmath>
+
+1713435458 g:\cpp\vs\cavegame\utils.h
+
+1713435438 g:\cpp\vs\cavegame\tinyxml2.h
+	<ctype.h>
+	<limits.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<cctype>
+	<climits>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<android/log.h>
+	<assert.h>
+
+1713724903 source:g:\cpp\vs\cavegame\main.cpp
+	"game.h"
+
+1713435048 source:g:\cpp\vs\cavegame\sprite.cpp
+	"sprite.h"
+	"graphics.h"
+	"globals.h"
+
+1713435067 source:g:\cpp\vs\cavegame\tile.cpp
+	"tile.h"
+	"graphics.h"
+	<SDL.h>
+
+1713435159 source:g:\cpp\vs\cavegame\tinyxml2.cpp
+	"tinyxml2.h"
+	<new>
+	<stddef.h>
+	<stdarg.h>
+	<cstddef>
+	<cstdarg>
+
+1713600932 source:g:\cpp\vs\cavegame\player.cpp
+	"player.h"
+	"graphics.h"
+
+1713434836 source:g:\cpp\ltnc\btl\cavegame\animatedsprite.cpp
+	"animatedsprite.h"
+	"graphics.h"
+	"sprite.h"
+
+1713435184 g:\cpp\ltnc\btl\cavegame\animatedsprite.h
+	<map>
+	<string>
+	<vector>
+	"sprite.h"
+	"globals.h"
+
+1713435405 g:\cpp\ltnc\btl\cavegame\sprite.h
+	<SDL.h>
+	<string>
+	"rectangle.h"
+	"globals.h"
+
+1713435373 g:\cpp\ltnc\btl\cavegame\rectangle.h
+	"globals.h"
+
+1713435262 g:\cpp\ltnc\btl\cavegame\globals.h
+
+1713435288 g:\cpp\ltnc\btl\cavegame\graphics.h
+	<SDL.h>
+	<map>
+	<string>
+
+1713434860 source:g:\cpp\ltnc\btl\cavegame\animatedtile.cpp
+	"animatedtile.h"
+	"graphics.h"
+
+1713435200 g:\cpp\ltnc\btl\cavegame\animatedtile.h
+	<vector>
+	"tile.h"
+	"globals.h"
+
+1713435417 g:\cpp\ltnc\btl\cavegame\tile.h
+	"globals.h"
+
+1713434878 source:g:\cpp\ltnc\btl\cavegame\enemy.cpp
+	"enemy.h"
+
+1713435230 g:\cpp\ltnc\btl\cavegame\enemy.h
+	"animatedsprite.h"
+	"globals.h"
+	"player.h"
+	<string>
+
+1713435353 g:\cpp\ltnc\btl\cavegame\player.h
+	"animatedsprite.h"
+	"globals.h"
+	"slope.h"
+	"level.h"
+	"enemy.h"
+
+1713435389 g:\cpp\ltnc\btl\cavegame\slope.h
+	"globals.h"
+	<cmath>
+
+1713435338 g:\cpp\ltnc\btl\cavegame\level.h
+	<string>
+	<vector>
+	"globals.h"
+	"tile.h"
+	"rectangle.h"
+	"slope.h"
+	"animatedtile.h"
+	"door.h"
+
+1713435213 g:\cpp\ltnc\btl\cavegame\door.h
+	"rectangle.h"
+	"globals.h"
+	<string>
+
+1713435508 source:g:\cpp\ltnc\btl\cavegame\game.cpp
+	<SDL.h>
+	"game.h"
+	"graphics.h"
+	"input.h"
+
+1713435244 g:\cpp\ltnc\btl\cavegame\game.h
+	"player.h"
+	"level.h"
+	"hud.h"
+	"graphics.h"
+
+1713435307 g:\cpp\ltnc\btl\cavegame\hud.h
+	"sprite.h"
+	"player.h"
+
+1713435322 g:\cpp\ltnc\btl\cavegame\input.h
+	<SDL.h>
+	<map>
+
+1713434933 source:g:\cpp\ltnc\btl\cavegame\graphics.cpp
+	<SDL.h>
+	<SDL_image.h>
+	"graphics.h"
+	"globals.h"
+
+1713435652 source:g:\cpp\ltnc\btl\cavegame\hud.cpp
+	"hud.h"
+	"graphics.h"
+
+1713434959 source:g:\cpp\ltnc\btl\cavegame\input.cpp
+	"input.h"
+
+1713434990 source:g:\cpp\ltnc\btl\cavegame\level.cpp
+	"level.h"
+	"graphics.h"
+	"globals.h"
+	"utils.h"
+	"player.h"
+	"enemy.h"
+	"tinyxml2.h"
+	<SDL.h>
+	<sstream>
+	<algorithm>
+	<cmath>
+
+1713435458 g:\cpp\ltnc\btl\cavegame\utils.h
+
+1713435438 g:\cpp\ltnc\btl\cavegame\tinyxml2.h
+	<ctype.h>
+	<limits.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<cctype>
+	<climits>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<android/log.h>
+	<assert.h>
+
+1713724903 source:g:\cpp\ltnc\btl\cavegame\main.cpp
+	"game.h"
+
+1713600932 source:g:\cpp\ltnc\btl\cavegame\player.cpp
+	"player.h"
+	"graphics.h"
+
+1713435048 source:g:\cpp\ltnc\btl\cavegame\sprite.cpp
+	"sprite.h"
+	"graphics.h"
+	"globals.h"
+
+1713435067 source:g:\cpp\ltnc\btl\cavegame\tile.cpp
+	"tile.h"
+	"graphics.h"
+	<SDL.h>
+
+1713435159 source:g:\cpp\ltnc\btl\cavegame\tinyxml2.cpp
+	"tinyxml2.h"
+	<new>
+	<stddef.h>
+	<stdarg.h>
+	<cstddef>
+	<cstdarg>
+

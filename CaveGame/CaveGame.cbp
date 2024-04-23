@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="CaveGame" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/CaveGame" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/CaveGame" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="animatedsprite.cpp" />
+		<Unit filename="animatedtile.cpp" />
+		<Unit filename="animatedtile.h" />
+		<Unit filename="door.h" />
+		<Unit filename="enemy.cpp" />
+		<Unit filename="enemy.h" />
+		<Unit filename="game.cpp" />
+		<Unit filename="game.h" />
+		<Unit filename="globals.h" />
+		<Unit filename="graphics.cpp" />
+		<Unit filename="graphics.h" />
+		<Unit filename="hud.cpp" />
+		<Unit filename="hud.h" />
+		<Unit filename="input.cpp" />
+		<Unit filename="input.h" />
+		<Unit filename="level.cpp" />
+		<Unit filename="level.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="player.cpp" />
+		<Unit filename="player.h" />
+		<Unit filename="rectangle.h" />
+		<Unit filename="slope.h" />
+		<Unit filename="sprite.cpp" />
+		<Unit filename="sprite.h" />
+		<Unit filename="tile.cpp" />
+		<Unit filename="tile.h" />
+		<Unit filename="tinyxml2.cpp" />
+		<Unit filename="tinyxml2.h" />
+		<Unit filename="utils.h" />
+		<Extensions />
+	</Project>
+</CodeBlocks_project_file>

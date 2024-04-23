@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="utils.h" open="1" top="0" tabpos="14" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="740" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="tile.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="401" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="sprite.cpp" open="1" top="0" tabpos="11" split="0" active="1" splitpos="0" zoom_1="2" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="631" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="input.cpp" open="1" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1140" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="hud.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="520" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="globals.h" open="0" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="3" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="665" topLine="3" />
+		</Cursor>
+	</File>
+	<File name="sprite.h" open="0" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="2" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="48" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="animatedsprite.cpp" open="1" top="1" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1448" topLine="33" />
+		</Cursor>
+	</File>
+	<File name="enemy.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="3" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1098" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="6" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="58" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="level.h" open="1" top="0" tabpos="16" split="0" active="1" splitpos="0" zoom_1="2" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="309" topLine="29" />
+		</Cursor>
+	</File>
+	<File name="tinyxml2.cpp" open="1" top="0" tabpos="13" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="475" topLine="2373" />
+		</Cursor>
+	</File>
+	<File name="graphics.cpp" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="30" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="animatedtile.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="642" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="graphics.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="139" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="game.cpp" open="1" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="243" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="tile.cpp" open="1" top="0" tabpos="12" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="54" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="player.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1789" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="door.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="2" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="619" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="hud.cpp" open="1" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="4" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="879" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="animatedtile.cpp" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="4" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="507" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="enemy.cpp" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1729" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="slope.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1292" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="rectangle.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1574" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="input.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="46" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="level.cpp" open="1" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="2" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="12438" topLine="342" />
+		</Cursor>
+	</File>
+	<File name="game.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="4" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="346" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="player.cpp" open="1" top="0" tabpos="10" split="0" active="1" splitpos="0" zoom_1="4" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="269" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="tinyxml2.h" open="1" top="0" tabpos="15" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="51514" topLine="2063" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>
